@@ -1,6 +1,5 @@
 #sens info
-.env.local
-.env.production.local
+.env*
 
 ############################# Windows #######################################################3
 # Windows thumbnail cache files
